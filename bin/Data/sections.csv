@@ -1,0 +1,30 @@
+Header: imeUlazneStanice, imeIzlazneStanice,duzina
+Station Subotica,Station Nis,49
+Station ZR,Station Kragujevac,95
+Station Novi Sad 1,Station BG,111
+Station BG,Station Novi Sad 2,48
+Station Nis,Station Novi Sad 1,83
+Station Novi Sad 1,Station Subotica,83
+Station Kragujevac,Station Novi Sad 1,125
+Station BG,Station Kragujevac,86
+Station Sid,Station Novi Sad 2,106
+Station Sid,Station ZR,80
+Station Novi Sad 1,Station Sid,64
+Station ZR,Station Novi Sad 2,79
+Station Subotica,Station ZR,108
+Station BG,Station Subotica,74
+Station Nis,Station ZR,65
+Station Sid,Station BG,87
+Station BG,Station Sid,87
+Station Sid,Station Kragujevac,100
+Station BG,Station Nis,48
+Station Kragujevac,Station Novi Sad 1,97
+Station Novi Sad 1,Station ZR,110
+Station ZR,Station BG,129
+Station Novi Sad 2,Station Subotica,59
+Station Novi Sad 2,Station Kragujevac,71
+Station Nis,Station Novi Sad 2,98
+Station Kragujevac,Station Nis,126
+Station Sid,Station Nis,93
+Station Sid,Station Subotica,89
+Station Kragujevac,Station ZR,126

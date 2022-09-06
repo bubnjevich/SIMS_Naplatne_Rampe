@@ -1,0 +1,7 @@
+Header:Station,TypeOfVechile,RSD,EUR
+Station BG-Station Sid,TRACTOR_TRAILER,492,3.11
+Station Sid-Station BG,PASSENGER_CAR,511,5.11
+Station Kragujevac-Station ZR,TRUCK,326,3.26
+Station Novi Sad 1-Station Sid,MOTORBIKE,464,4.64
+Station Novi Sad 1-Station BG,MOTORBIKE,222,2.22
+Station Kragujevac-Station Novi Sad 1,TOW_TRUCK,222,2.22
