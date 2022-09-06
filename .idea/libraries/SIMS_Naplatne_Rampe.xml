@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SIMS_Naplatne_Rampe">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/xchart-demo-3.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/xchart-3.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/miglayout15-swing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
