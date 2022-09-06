@@ -18,6 +18,7 @@ public class UserService {
         for(User user:this.userRepository.getUsers()){
             if(user.getEmail().equals(email) && user.getPassword().equals(pass))
                 return user;
+
         }
         return null;
     }
