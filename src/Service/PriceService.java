@@ -21,8 +21,6 @@ public class PriceService {
         String[] split      = entryExitString.split("-");
         String entry        = split[0].trim();
         String exit         = split[1].trim();
-        System.out.println(entry);
-        System.out.println(exit);
 
         System.out.println(this.priceListRepository.getPriceLists().size());
         for(PriceListItem priceListItem:this.priceListRepository.getPriceLists()) {
